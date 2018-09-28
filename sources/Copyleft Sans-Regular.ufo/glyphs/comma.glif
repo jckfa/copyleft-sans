@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comma" format="1">
+  <advance width="570"/>
+  <unicode hex="002C"/>
+  <note>
+    comma
+  </note>
+  <outline>
+    <contour>
+      <point x="408" y="-83" type="curve" smooth="yes"/>
+      <point x="408" y="0" type="line"/>
+      <point x="290" y="0" type="line"/>
+      <point x="290" y="-83" type="line" smooth="yes"/>
+      <point x="290" y="-135"/>
+      <point x="268" y="-157"/>
+      <point x="216" y="-157" type="curve" smooth="yes"/>
+      <point x="162" y="-157" type="line"/>
+      <point x="162" y="-262" type="line"/>
+      <point x="216" y="-262" type="line" smooth="yes"/>
+      <point x="350" y="-262"/>
+      <point x="408" y="-208"/>
+    </contour>
+    <component base="period"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 02:40:14 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>period</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>period</string>
+    </dict>
+  </lib>
+</glyph>

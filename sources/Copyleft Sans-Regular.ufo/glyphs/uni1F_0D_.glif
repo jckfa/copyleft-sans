@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1F0D" format="1">
+  <advance width="1666"/>
+  <unicode hex="1F0D"/>
+  <note>
+    uni1F0D
+  </note>
+  <outline>
+    <component base="A"/>
+    <component base="uni1FDE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 03:09:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

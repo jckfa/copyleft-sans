@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yodyod_patah" format="1">
+  <advance width="1064"/>
+  <unicode hex="FB1F"/>
+  <note>
+    yodyod_patah
+  </note>
+  <outline>
+    <component base="yod" xOffset="532"/>
+    <component base="yod"/>
+    <component base="patah" xOffset="522" yOffset="547"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 03:09:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

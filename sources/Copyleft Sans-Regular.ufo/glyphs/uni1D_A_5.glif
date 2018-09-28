@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1DA5" format="1">
+  <advance width="322"/>
+  <unicode hex="1DA5"/>
+  <note>
+    uni1DA5
+  </note>
+  <outline>
+    <contour>
+      <point x="100" y="490" type="line"/>
+      <point x="221" y="490" type="line"/>
+      <point x="221" y="1253" type="line"/>
+      <point x="100" y="1253" type="line"/>
+    </contour>
+  </outline>
+</glyph>

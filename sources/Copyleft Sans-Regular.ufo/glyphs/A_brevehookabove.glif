@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevehookabove" format="1">
+  <advance width="1366"/>
+  <unicode hex="1EB2"/>
+  <note>
+    Abrevehookabove
+  </note>
+  <outline>
+    <component base="A"/>
+    <component base="brevehook" xOffset="1366"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 03:09:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

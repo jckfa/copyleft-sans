@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01C6" format="1">
+  <advance width="2148"/>
+  <unicode hex="01C6"/>
+  <note>
+    uni01C6
+  </note>
+  <outline>
+    <component base="d"/>
+    <component base="z" xOffset="1139"/>
+    <component base="caron" xOffset="1253"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 03:09:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

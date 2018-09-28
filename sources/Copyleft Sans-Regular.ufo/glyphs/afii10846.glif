@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii10846" format="1">
+  <advance width="1139"/>
+  <unicode hex="04D9"/>
+  <note>
+    afii10846
+  </note>
+  <outline>
+    <component base="uni0259"/>
+  </outline>
+</glyph>

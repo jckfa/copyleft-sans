@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowerdot" format="1">
+  <advance width="0"/>
+  <unicode hex="05C5"/>
+  <note>
+    lowerdot
+  </note>
+  <outline>
+    <contour>
+      <point x="-80" y="-328" type="qcurve" smooth="yes"/>
+      <point x="-80" y="-360"/>
+      <point x="-32" y="-406"/>
+      <point x="0" y="-406" type="qcurve" smooth="yes"/>
+      <point x="32" y="-406"/>
+      <point x="80" y="-360"/>
+      <point x="80" y="-328" type="qcurve" smooth="yes"/>
+      <point x="80" y="-296"/>
+      <point x="34" y="-248"/>
+      <point x="0" y="-248" type="qcurve" smooth="yes"/>
+      <point x="-33" y="-248"/>
+      <point x="-80" y="-295"/>
+    </contour>
+  </outline>
+</glyph>

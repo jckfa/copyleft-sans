@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1FAA" format="1">
+  <advance width="2031"/>
+  <unicode hex="1FAA"/>
+  <note>
+    uni1FAA
+  </note>
+  <outline>
+    <component base="Omega"/>
+    <component base="uni1FCD" xOffset="-18"/>
+    <component base="uni0345" xOffset="1264"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 03:09:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni037E" format="1">
+  <advance width="569"/>
+  <unicode hex="037E"/>
+  <note>
+    uni037E
+  </note>
+  <outline>
+    <component base="semicolon"/>
+  </outline>
+</glyph>

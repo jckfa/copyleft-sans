@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omegatonos" format="1">
+  <advance width="1541"/>
+  <unicode hex="038F"/>
+  <note>
+    Omegatonos
+  </note>
+  <outline>
+    <component base="Omega"/>
+    <component base="tonos" xOffset="-274" yOffset="-132"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 02:58:49 +0000</string>
+    </dict>
+  </lib>
+</glyph>

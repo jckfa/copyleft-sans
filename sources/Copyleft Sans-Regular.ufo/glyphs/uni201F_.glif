@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni201F" format="1">
+  <advance width="902"/>
+  <unicode hex="201F"/>
+  <note>
+    uni201F
+  </note>
+  <outline>
+    <component base="quotedblleft" yScale="-1" yOffset="2281"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 03:34:35 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>quotedblleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quotedblleft</string>
+    </dict>
+  </lib>
+</glyph>

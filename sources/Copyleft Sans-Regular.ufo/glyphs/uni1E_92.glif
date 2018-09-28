@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E92" format="1">
+  <advance width="1251"/>
+  <unicode hex="1E92"/>
+  <note>
+    uni1E92
+  </note>
+  <outline>
+    <component base="Z"/>
+    <component base="dotbelow.alt1" xOffset="1251"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-28 03:09:14 +0000</string>
+    </dict>
+  </lib>
+</glyph>
